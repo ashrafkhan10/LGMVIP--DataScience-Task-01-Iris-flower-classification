@@ -1,2 +1,24 @@
-# LGMVIP--DataScience-Task-01-Iris-flower-classification
-The Iris dataset consists of measurements of various attributes of three different species of iris flowers: Setosa, Versicolor, and Virginica. The attributes or features measured in the dataset are as follows: Sepal length (in centimeters) Sepal width (in centimeters) Petal length (in centimeters) Petal width (in centimeters)
+Iris dataset analysis - Classification
+
+Dataset Information
+The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
+
+Attribute Information:-
+
+sepal length in cm
+sepal width in cm
+petal length in cm
+petal width in cm
+species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
+
+Libraries
+pandas
+matplotlib
+seaborn
+scikit-learn
+Algorithms
+Logistic Regression
+K-Nearest Neighbors
+Best Model Accuracy: 93.33.
+
+
